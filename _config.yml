@@ -182,7 +182,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  Learning:
+  learning:
     output: true
      permalink: /:collection/path/
 
